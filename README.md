@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Don Hicks
 
-**Software Engineer | Technical Organizer | Builder of Open-Source Infrastructure**
+**Software Developer | Technical Organizer | Builder of Open-Source Infrastructure**
 
 ---
 
