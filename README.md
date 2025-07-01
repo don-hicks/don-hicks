@@ -19,7 +19,6 @@ I'm an experienced full stack engineer and technical project lead, specializing 
 ### [Hyxos Media](https://github.com/hyxos)
 - **Shard³** — Modular platform for high-dimensional visualization ([repo](https://github.com/hyxos/shard3))
     - **Slice³**: Interactive 2D slicing of the 3-sphere with SVG & WASM ([repo](https://github.com/hyxos/slice3))
-    - **svg2png-wasm-rs**: Fast SVG-to-PNG export via Rust/WASM ([repo](https://github.com/don-hicks/svg2png-wasm-rs))
     - (Spin³, Glow³, Fold³, and Echo³ in active development)
 
 ### [Professional Profile](https://www.linkedin.com/in/don-hicks)
