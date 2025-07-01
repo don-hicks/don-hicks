@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm an experienced full stack engineer and technical project lead, specializing in the design and implementation of robust, modern web applications. My background spans SaaS, developer tools, and high-stakes systems support. I thrive at the intersection of clarity, collaboration, and practical delivery.
+I'm an experienced full stack developer and technical project lead, specializing in the design and implementation of robust, modern web applications. My background spans SaaS, developer tools, and high-stakes systems support. I thrive at the intersection of clarity, collaboration, and practical delivery.
 
 - 🏗️ **Organizer and systems thinker:** I turn complex visions into actionable roadmaps and working products.
 - ⚙️ **Tech stack:** TypeScript, Next.js, Rust, WASM, PostgreSQL, Supabase, SVG, CI/CD on Vercel.
